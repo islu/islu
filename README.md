@@ -1,6 +1,6 @@
 
 ### My Blog Articles
-🔖 ~ [Github Page](https://islu.github.io/blog/) | 💬 ~ [Mirror](https://mirror.xyz/0x7927101c47CA237EBd2Ca821B261a68371137D21)
+🔖 ~ [Blog](https://islu.github.io/blog/) | [Mirror](https://mirror.xyz/0x7927101c47CA237EBd2Ca821B261a68371137D21)
 
 <!--
 **islu/islu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
